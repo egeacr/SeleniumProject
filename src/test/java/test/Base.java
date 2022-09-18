@@ -48,7 +48,7 @@ public class Base {
        }catch(IOException e){
            e.printStackTrace();
        }
-
+//When test fail, this method take screenshot of failure page.
 
    }
    public WindowManager getWindowManager(){
